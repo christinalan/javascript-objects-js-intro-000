@@ -1,4 +1,3 @@
 var playlist = {
-  Slowdive: 'Alison',
-  My Bloody Valentine: 'Sometimes'
+  artistName: 'songTitle',
 }
